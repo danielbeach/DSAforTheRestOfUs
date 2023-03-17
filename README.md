@@ -7,5 +7,11 @@ with little to no background in DSA to understand at least something about the d
 DSA topics, and set them on a course of learning.
 
 `Linked Lists`
+![alt text](https://github.com/danielbeach/DSAFORTHERESTOFUS/blob/main/imgs/linkedlist.png?raw=true)
 - In part one, we build a `linked list` in Rust.
 - see `LinkedLists` for more detail, and this post. https://dataengineeringcentral.substack.com/p/dsa-for-the-rest-of-us-part-1
+
+`Binary Search`
+![alt text](https://github.com/danielbeach/DSAFORTHERESTOFUS/blob/main/imgs/binarysearch.webp?raw=true)
+- In part two, we build a `binary search` function in Rust.
+- see `BinarySearch` for more detail, and this post. -- coming soon
