@@ -15,3 +15,8 @@ DSA topics, and set them on a course of learning.
 ![alt text](https://github.com/danielbeach/DSAFORTHERESTOFUS/blob/main/imgs/binarysearch.webp?raw=true)
 - In part two, we build a `binary search` function in Rust.
 - see `BinarySearch` for more detail, and this post. -- coming soon
+
+`QuickSort`
+![alt text](https://github.com/danielbeach/DSAFORTHERESTOFUS/blob/main/imgs/QuickSort.png?raw=true)
+- In part three, we build a `Quick Sort` algo in Rust.
+- see `QiuckSort` for more detail, and this post. -- coming soon
