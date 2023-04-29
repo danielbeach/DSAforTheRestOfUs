@@ -14,9 +14,14 @@ DSA topics, and set them on a course of learning.
 `Binary Search`
 ![alt text](https://github.com/danielbeach/DSAFORTHERESTOFUS/blob/main/imgs/binarysearch.webp?raw=true)
 - In part two, we build a `binary search` function in Rust.
-- see `BinarySearch` for more detail, and this post. -- coming soon
+- see `BinarySearch` for more detail, and this post. https://dataengineeringcentral.substack.com/p/dsa-for-the-rest-of-us-part-2
 
 `QuickSort`
 ![alt text](https://github.com/danielbeach/DSAFORTHERESTOFUS/blob/main/imgs/QuickSort.png?raw=true)
 - In part three, we build a `Quick Sort` algo in Rust.
+- see `QiuckSort` for more detail, and this post. https://dataengineeringcentral.substack.com/p/dsa-for-the-rest-of-us-part-3
+
+`Graphs and Breadth First Search`
+![alt text](https://github.com/danielbeach/DSAFORTHERESTOFUS/blob/main/imgs/graph.webp?raw=true)
+- In part four, we build a `Graph` and BSF algo in Python.
 - see `QiuckSort` for more detail, and this post. -- coming soon
